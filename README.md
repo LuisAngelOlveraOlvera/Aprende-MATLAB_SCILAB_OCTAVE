@@ -4,14 +4,14 @@
 # 1. Básicos de SCILAB/OCTAVE/MATLAB®
 #   1.1. Ambiente de SCILAB/OCTAVE/MATLAB® . . . . . . . . . . . 5
 #   1.2. SCILAB/OCTAVE/MATLAB® como calculadora . . . . . . . . 5
-#   1.3. Expresiones logicas y operadores . . . . . . . . . . . . . . . . . . 5
-# 2. Variables y estructuras basicas de datos 7
-#   2.1. Variables y asignacion . . . . . . . . . . . . . . . . . . . . . . . . 7
+#   1.3. Expresiones lógicas y operadores . . . . . . . . . . . . . . . . . . 5
+# 2. Variables y estructuras básicas de datos 7
+#   2.1. Variables y asignación . . . . . . . . . . . . . . . . . . . . . . . . 7
 #   2.2. Double Array . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
 #   2.3. Char Array . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
 #   2.4. Struct Array . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
 #   2.5. Cell Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-# 3. Funciones 9
+# 3. Funciones
 #   3.1. Funciones Básicas . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
 #   3.2. Funciones en el workspace . . . . . . . . . . . . . . . . . . . . . . 9
 #   3.3. SCILAB/OCTAVE/MATLAB® . . . . . . . . . . . . . . . . . . 9
@@ -29,10 +29,10 @@
 #   7.1. Archivos .mat/.dat . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 #   7.2. Archivos .txt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 #   7.3. Archivos .xlsx . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
-#   8. Visualización y gracación 19
-#   8.1. Gráficas 2D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+#   8. Visualización y graficación 19
+#   8.1. Gráfias 2D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
 #   8.2. Gráficas 3D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
-#   8.3. Animacionesy películas . . . . . . . . . . . . . . . . . . . . . . . . 19
+#   8.3. Animacionesy peliculas . . . . . . . . . . . . . . . . . . . . . . . . 19
 # 9. Álgebra Lineal y Sistema de Ecuaciones Lineales 21
 #   9.1. Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
 #   9.2. Vectores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
