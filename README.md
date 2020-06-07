@@ -1,10 +1,10 @@
 # Aprende-MATLAB_SCILAB_OCTAVE
  Curso para aprender programación numérica desde 0 usando MATLAB/SCILAB/OCTAVE
 
-1. Basicos de SCILAB/OCTAVE/MATLAB® 5
-1.1. Ambiente de SCILAB/OCTAVE/MATLAB® . . . . . . . . . . . 5
-1.2. SCILAB/OCTAVE/MATLAB® como calculadora . . . . . . . . 5
-1.3. Expresiones logicas y operadores . . . . . . . . . . . . . . . . . . 5
+# 1. Básicos de SCILAB/OCTAVE/MATLAB® 5
+#   1.1. Ambiente de SCILAB/OCTAVE/MATLAB® . . . . . . . . . . . 5
+#   1.2. SCILAB/OCTAVE/MATLAB® como calculadora . . . . . . . . 5
+#   1.3. Expresiones logicas y operadores . . . . . . . . . . . . . . . . . . 5
 2. Variables y estructuras basicas de datos 7
 2.1. Variables y asignacion . . . . . . . . . . . . . . . . . . . . . . . . 7
 2.2. Double Array . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
